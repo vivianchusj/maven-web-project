@@ -11,7 +11,7 @@
         Email Id:<input type="text" name="email" /><br/>
         Language: <select name="language">
             <option>Hindi</option>
-            <option>English</option>
+            <option>English</option> 
             <option>French</option>
             <option>Chinese</option>
         </select> <br/>
